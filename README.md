@@ -11,13 +11,13 @@
 有需要帮忙制作的歌词可以发送文本歌词和音乐文件到xmy329@gmail.com，有时间会帮忙制作。
 
 ## 如何使用？
-1. 如果您是不知道这是什么东西的新手，请查阅[lrc格式](https://zh.wikipedia.org/wiki/LRC%E6%A0%BC%E5%BC%8F),再自行搜索如何使用。此文件并不能在QQ音乐，网易云音乐,Apple Music，Spotify，KKBOX等流媒体软件上直接使用，而是需要额外的本地音乐播放器。
-2. 复制歌词文件文本另存为与歌曲文件名.lrc，保持和你的歌曲文件同名并放到和你的歌曲同一个目录。例如：你的歌曲文件是<b>周杰伦 - 稻香.mp3</b>则应该保存为<b>周杰伦 - 稻香.lrc</b>。
-3. 点击进你需要下载的歌词文件的页面后，点击![img.png](img.png)这个图标可直接进行下载，然后再重命名保持和你的歌曲文件同名即可。
-4. 如果你的播放器(比如[Musicolet](https://krosbits.in/musicolet/),[椒盐音乐](https://github.com/Moriafly/SaltPlayerSource)等)支持读取歌曲标签，你也可以把该文本通过[音乐标签](https://www.cnblogs.com/vinlxc/p/11347744.html)直接复制到歌曲的歌词标签里即可出现滚动歌词。
+1. 复制歌词文件文本另存为与歌曲文件名.lrc，保持和你的歌曲文件同名并放到和你的歌曲同一个目录。例如：你的歌曲文件是<b>周杰伦 - 稻香.mp3</b>则应该保存为<b>周杰伦 - 稻香.lrc</b>。
+2. 点击进你需要下载的歌词文件的页面后，点击![img.png](img.png)这个图标可直接进行下载，然后再重命名保持和你的歌曲文件同名即可。 
+3. 如果你的播放器(比如[Musicolet](https://krosbits.in/musicolet/),[椒盐音乐](https://github.com/Moriafly/SaltPlayerSource)等)支持读取歌曲标签，你也可以把该文本通过[音乐标签](https://www.cnblogs.com/vinlxc/p/11347744.html)直接复制到歌曲的歌词标签里即可出现滚动歌词。
 
 ## 注意事项
 1. 本项目如有侵犯您的权利请及时联系我（xmy329@gmail.com）删除。
 2. 本项目除了单纯的动态歌词分享无任何政治倾向，请不要因为有某些歌而进行无端揣测。
 3. 本项目欢迎大家一起上传分享。
+4. 如果您是不知道这是什么东西的新手，请查阅[lrc格式](https://zh.wikipedia.org/wiki/LRC%E6%A0%BC%E5%BC%8F),再自行搜索如何使用。此文件并不能在QQ音乐，网易云音乐,Apple Music，Spotify，KKBOX等流媒体软件上直接使用，而是需要额外的本地音乐播放器。
 
