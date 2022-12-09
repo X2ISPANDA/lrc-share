@@ -12,5 +12,7 @@
 
 ## 如何使用？
 1.复制歌词文件文本另存为与歌曲文件名.lrc，保持和你的歌曲文件同名。例如：你的歌曲文件是<b>周杰伦 - 稻香.mp3</b>则应该保存为<b>周杰伦 - 稻香.lrc</b>。
+
 2.点击进你需要下载的歌词文件的页面后，点击![img.png](img.png)这个图标可直接进行下载，然后再重命名保持和你的歌曲文件同名即可。
+
 3.如果你的播放器(比如[Musicolet](https://krosbits.in/musicolet/),[椒盐音乐](https://github.com/Moriafly/SaltPlayerSource)等)支持读取歌曲标签，你也可以把该文本通过[音乐标签](https://www.cnblogs.com/vinlxc/p/11347744.html)直接复制到歌曲的歌词标签里即可出现滚动歌词。
