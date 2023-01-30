@@ -27,5 +27,5 @@
 
 # 特别感谢
 
-玉溪谷/Ferech(贡献了中文说唱半壁江山)/mc ame player/[Mr-233333](https://github.com/Mr-233333)
+玉溪谷/Ferech(贡献了中文说唱半壁江山)/mc ame player/[Mr-233333](https://github.com/Mr-233333)/[C5732](https://github.com/C5732)
 
