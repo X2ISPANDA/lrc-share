@@ -39,6 +39,5 @@
 
 ## 支持本歌词库
 如果歌词库的内容对您有所帮助，而您希望支持下作者内容创作，请作者喝杯肥宅水吧🍺~
-![Wechat](Wechat.jpg)
+<img src="Wechat.jpg" alt="Wechat" style="zoom: 33%;" /><img src="Alipay.jpg" alt="Alipay" style="zoom: 25%;" />
 
-![Alipay](Alipay.jpg)
