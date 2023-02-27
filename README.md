@@ -34,6 +34,9 @@
 <b>以下为提交歌词或者PR并合并的小伙伴（排名不分先后）：<b><br/>
 玉溪谷/Ferech(贡献了中文说唱半壁江山)/mc ame player/[Mr-233333](https://github.com/Mr-233333)/[C5732](https://github.com/C5732)/[Mumrab](http://music.163.com/artist?id=12968692&userid=103609335)/CYD(<b>@undaloop</b>歌词纠正)/[yskdr](https://space.bilibili.com/91756419)/南鸢离梦°/敢问君子去何处
 
+<b>以下为赞赏本歌词库的小伙伴（排名不分先后）：<b><br/>
+抽象的人儿
+
 ## 支持本歌词库
 如果歌词库的内容对您有所帮助，而您希望支持下作者内容创作，请作者喝杯肥宅水吧🍺~
 ![Wechat](Wechat.jpg)
