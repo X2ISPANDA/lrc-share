@@ -1,6 +1,6 @@
 # lrc-share
 
-本站所有歌词已经上传到<b>[lrcshare](https://lrcshare.com)</b>。欢迎到网站上进行查看。
+本库所有歌词已经上传到<b>[lrcshare](https://lrcshare.com)</b>。欢迎到网站上进行查看。
 
 这是一个<B>滚动歌词(.lrc)文件</B>分享库。<br/>
 主要收录一些中国大陆已下架或被禁的歌曲或者其他自己制作的滚动歌词。<br/>
