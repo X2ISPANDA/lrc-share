@@ -1,5 +1,7 @@
 # lrc-share
 
+![favicon.png](https://s2.loli.net/2023/03/20/BvaTbY9nIu6qeQs.png)
+
 本库所有歌词已经上传到<b>[lrcshare](https://lrcshare.com)</b>。欢迎到网站上进行查看。
 
 这是一个<B>滚动歌词(.lrc)文件</B>分享库。<br/>
