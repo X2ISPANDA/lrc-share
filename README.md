@@ -34,7 +34,7 @@
 
 ## 参与贡献
 <b>以下为提交歌词或者PR并合并的小伙伴（排名不分先后）：<b><br/>
-玉溪谷/Ferech(贡献了中文说唱半壁江山)/mamepae/[Mr-233333](https://github.com/Mr-233333)/[C5732](https://github.com/C5732)/[Mumrab](http://music.163.com/artist?id=12968692&userid=103609335)/CYD(<b>@undaloop</b>歌词纠正)/[yskdr](https://space.bilibili.com/91756419)/离梦ansaski/敢问君子去何处/Parvati-IV/Act1ve/[Psynius](https://music.163.com/#/artist?id=54548162)(<b>@undaloop</b>歌词贡献)
+玉溪谷/Ferech(贡献了中文说唱半壁江山)/mamepae/[Mr-233333](https://github.com/Mr-233333)/[C5732](https://github.com/C5732)/[Mumrab](http://music.163.com/artist?id=12968692&userid=103609335)/CYD(<b>@undaloop</b>歌词纠正)/[yskdr](https://space.bilibili.com/91756419)/离梦ansaski/敢问君子去何处/Parvati-IV/Act1ve/[Psynius](https://music.163.com/#/artist?id=54548162)(<b>@undaloop</b>歌词贡献)/柠檬批发部
 
 感谢本项目LOGO设计:
 
