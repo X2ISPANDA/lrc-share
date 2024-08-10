@@ -21,7 +21,9 @@
 2. 第二种方法：或者点击进你需要下载的歌词文件的页面后，点击![img.png](img.png)这个图标可直接进行下载，然后再重命名保持和你的歌曲文件同名即可。 
 3. 仓库快速检索如图：![img_1.png](img_1.png)
 4. 如果你的播放器(比如[Musicolet](https://krosbits.in/musicolet/),[椒盐音乐](https://github.com/Moriafly/SaltPlayerSource)等)支持读取歌曲标签，你也可以把该文本通过[音乐标签](https://www.cnblogs.com/vinlxc/p/11347744.html)直接复制到歌曲的歌词标签里即可出现滚动歌词。
-
+## LrcShareApi
+本项目可通过接口调用获取歌曲标签信息以及歌词。
+[LrcShareApiDoc](https://doc.lrcshare.com)
 ## 注意事项
 1. 本项目如有侵犯您的权利请及时联系我（xmy329@gmail.com）删除。
 2. 本项目除了单纯的动态歌词分享无任何政治倾向，请不要因为有某些歌而进行无端揣测。
