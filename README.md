@@ -1,5 +1,11 @@
 # lrc-share
 
+> [!WARNING]
+> ⚠️ **本项目已废弃，不再维护。**
+>
+> 请前往新仓库继续使用和贡献：
+> **[lrcshare-v3](https://github.com/X2ISPANDA/lrcshare-v3)**
+
 ![favicon.png](https://s2.loli.net/2023/03/27/XjgNvfJtyF4L5Hq.png)
 
 本库已停止更新。所有歌词已经上传到<b>[lrcshare](https://lrcshare.com)</b>。欢迎到网站上进行查看。
